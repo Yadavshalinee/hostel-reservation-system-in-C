@@ -1,2 +1,2 @@
-# hostel-reservation-system-in-C
+# hotel-reservation-system-in-C
 short college project
